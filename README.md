@@ -7,7 +7,7 @@
 下载安装脚本
 
 ```
-cd ~ && curl http://download.koogua.com/ctc/install.sh -o install.sh
+cd ~ && cp install.sh.sample install.sh
 ```
 
 增加执行权限
